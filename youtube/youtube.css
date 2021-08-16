@@ -1,0 +1,190 @@
+.header{
+    background:#eeeeff;
+    width:100%;
+    height:55px;
+}
+.logo{
+    margin-left:2px;
+    height:10px;
+    width:05px;
+}
+.y{
+        height: 51px;
+    width: 106px;
+    margin-left:70px;
+    cursor: pointer;
+    float: left;
+}
+.search{
+    height: 29px;
+    width: 565px;
+    float: left;
+    margin-left: 345px;
+    margin-top: -41px;
+    border-color: blue;
+    border-radius: 3px;
+    border-style: groove;
+}
+.but{
+    margin-right: -27px;
+    margin-top: 10px;
+    height: 35px;
+    width: 59px;
+    margin-left: -37px;
+    border-radius: 4px;
+    border-style: solid;
+}
+body{
+    margin: 0;
+    background: rgb(223, 219, 219);
+}
+.home{
+    margin-top: 4px;
+    width: 216px;
+    height: 42px;
+    border-style: none;
+    font-weight: bold;
+    font-size: 14px;
+    cursor: pointer;
+    border-style: none;
+   background-color: white;
+}
+.trending{
+    margin-top: 0px;
+    width: 216px;
+    height: 42px;
+    border-style: none;
+    font-weight: bold;
+    font-size: 14px;
+    cursor: pointer;
+    border-style: none;
+    background-color: white;
+}
+.sub{
+    margin-top: 0px;
+    width: 216px;
+    height: 42px;
+    border-style: none;
+    font-weight: bold;
+    font-size: 14px;
+    cursor: pointer;
+    border-style: none;
+    background-color: white;
+}
+.lib{
+    margin-top: 2px;
+width: 216px;
+height: 42px;
+border-style: none;
+font-weight: bold;
+font-size: 14px;
+cursor: pointer;
+border-style: none;
+background-color: white;
+}
+.his{
+    width: 216px;
+    height: 42px;
+    border-style: none;
+    font-weight: bold;
+    font-size: 14px;
+    cursor: pointer;
+    border-style: none;
+    background-color: white;
+} 
+.yv{
+    width: 216px;
+    height: 42px;
+    border-style: none;
+    font-weight: bold;
+    font-size: 14px;
+    cursor: pointer;
+    border-style: none;
+    background-color: white;
+}
+.wl
+{
+    width: 216px;
+    height: 42px;
+    border-style: none;
+    font-weight: bold;
+    font-size: 14px;
+    cursor: pointer;
+    border-style: none;
+    background-color: white;
+}
+.lv{
+    width: 216px;
+    height: 42px;
+    border-style: none;
+    font-weight: bold;
+    font-size: 14px;
+    cursor: pointer;
+    border-style: none;
+    background-color: white;
+}
+.more{
+    width: 216px;
+    height: 42px;
+    border-style: none;
+    font-weight: bold;
+    font-size: 14px;
+    cursor: pointer;
+    border-style: none;
+    background-color: white;
+}
+.su{
+    margin-left: 24px;
+    font-size: 14px;
+    font-weight: 100;
+}
+.mn{
+    width: 216px;
+    height: 42px;
+    border-style: none;
+    font-weight: bold;
+    font-size: 14px;
+    cursor: pointer;
+    border-style: none;
+    background-color: white;
+}
+.sp{
+    width: 216px;
+    height: 42px;
+    border-style: none;
+    font-weight: bold;
+    font-size: 14px;
+    cursor: pointer;
+    border-style: none;
+    background-color: white;
+}
+.nas{
+    width: 216px;
+    height: 42px;
+    border-style: none;
+    font-weight: bold;
+    font-size: 14px;
+    cursor: pointer;
+    border-style: none;
+    background-color: white;
+}
+.ps{
+    width: 216px;
+    height: 42px;
+    border-style: none;
+    font-weight: bold;
+    font-size: 14px;
+    cursor: pointer;
+    border-style: none;
+    background-color: white;
+}
+.leftsection{
+    width:30%;
+    height:100%;
+    float: left;
+}
+.rightsection{
+    width: 70%;
+    height:100%;
+    float: left;
+}
